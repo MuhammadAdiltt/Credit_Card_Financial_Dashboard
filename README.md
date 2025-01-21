@@ -24,38 +24,51 @@ Steps Involved:
 8. Validate the Insights
 9. Publish and Share
 
-Key Insights from Customer Report
+# Key Insights from Customer Report
 Revenue Distribution:
 
 Total revenue for the period: 
-$57M, with $8M generated through interest and $588M income.
+
+$57M with $8M generated through interest and $588M income.
+
 Top revenue contributors by age:
+
 40-50 years: $14M
 30-40 years: $11M
+
 Top Contributing States:
 
 Texas (TX) and New York (NY) lead with $7M each, followed by California (CA) with $6M.
+
 Segmentation by Occupation:
 
 Business professionals generated the highest revenue of $18M, followed by white-collar workers with $10M.
+
 Gender and Payment Insights:
 
 Male customers represent 31M, while females contribute 26M in revenue.
 Swipe-based transactions dominate revenue generation, followed by online payments.
-Key Insights from Transaction Report
+
+# Key Insights from Transaction Report
 Quarterly Trends:
 
 Q4 recorded the highest revenue ($14.2M) and transaction volume (173.2K), reflecting a seasonal surge.
+
 Card Category Performance:
 
 The Blue card category contributed $47M to revenue, outperforming other tiers.
 Platinum card revenue remains relatively low, hinting at untapped potential or lower adoption.
+
 Preferred Expenditure Types:
 
 Top spending areas:
+
 Bills: $14M
+
 Entertainment: $10M
+
 Fuel: $10M
+
 Transaction Methods:
 
 Swipe remains the most common method (36M transactions), followed by chip-based (17M) and online transactions (4M).
