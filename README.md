@@ -10,6 +10,7 @@ Overview
 This analysis highlights trends in customer behavior, revenue distribution, and transactional dynamics within the credit card sector. Leveraging dashboards with key metrics, we provide actionable insights into customer segmentation, revenue streams, and preferred payment methods.
 
 Datasets: 
+
 Financial Datasets
 
 Steps Involved:
