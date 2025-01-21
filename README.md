@@ -27,7 +27,8 @@ Steps Involved:
 Key Insights from Customer Report
 Revenue Distribution:
 
-Total revenue for the period: $57M, with $8M generated through interest and $588M income.
+Total revenue for the period: 
+$57M, with $8M generated through interest and $588M income.
 Top revenue contributors by age:
 40-50 years: $14M
 30-40 years: $11M
